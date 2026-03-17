@@ -1,0 +1,12 @@
+C:\Users\labsfiap\CP1-JOKEMPO\Jokempo.Core\bin\Debug\net9.0\Jokempo.Core.deps.json
+C:\Users\labsfiap\CP1-JOKEMPO\Jokempo.Core\bin\Debug\net9.0\Jokempo.Core.dll
+C:\Users\labsfiap\CP1-JOKEMPO\Jokempo.Core\bin\Debug\net9.0\Jokempo.Core.pdb
+C:\Users\labsfiap\CP1-JOKEMPO\Jokempo.Core\obj\Debug\net9.0\Jokempo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\CP1-JOKEMPO\Jokempo.Core\obj\Debug\net9.0\Jokempo.Core.AssemblyInfoInputs.cache
+C:\Users\labsfiap\CP1-JOKEMPO\Jokempo.Core\obj\Debug\net9.0\Jokempo.Core.AssemblyInfo.cs
+C:\Users\labsfiap\CP1-JOKEMPO\Jokempo.Core\obj\Debug\net9.0\Jokempo.Core.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\CP1-JOKEMPO\Jokempo.Core\obj\Debug\net9.0\Jokempo.Core.sourcelink.json
+C:\Users\labsfiap\CP1-JOKEMPO\Jokempo.Core\obj\Debug\net9.0\Jokempo.Core.dll
+C:\Users\labsfiap\CP1-JOKEMPO\Jokempo.Core\obj\Debug\net9.0\refint\Jokempo.Core.dll
+C:\Users\labsfiap\CP1-JOKEMPO\Jokempo.Core\obj\Debug\net9.0\Jokempo.Core.pdb
+C:\Users\labsfiap\CP1-JOKEMPO\Jokempo.Core\obj\Debug\net9.0\ref\Jokempo.Core.dll
