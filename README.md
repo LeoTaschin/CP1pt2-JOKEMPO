@@ -23,11 +23,11 @@ Certifique-se de ter o [.NET SDK](https://dotnet.microsoft.com/download) instala
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/GabrielGaleraniAlmeida/CP1-JOKEMPO.git](https://github.com/GabrielGaleraniAlmeida/CP1-JOKEMPO.git)
+   git clone [https://github.com/GabrielGaleraniAlmeida/CP1pt2-JOKEMPO.git](https://github.com/GabrielGaleraniAlmeida/CP1pt2-JOKEMPO.git)
 
 2. Acesse a pasta do projeto:
 ```bash
-cd CP1-JOKEMPO
+cd CP1pt2-JOKEMPO
 
 ```
 
