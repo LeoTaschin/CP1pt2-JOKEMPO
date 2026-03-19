@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Jokempo.Core")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CardGame.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5efc93f2c05de56c98cd09dc76a37fc8d1b2618c")]
-[assembly: System.Reflection.AssemblyProductAttribute("Jokempo.Core")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Jokempo.Core")]
+[assembly: System.Reflection.AssemblyProductAttribute("CardGame.Core")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CardGame.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
